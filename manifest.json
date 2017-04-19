@@ -2,7 +2,7 @@
 
   "name": "EP4 - Canadian Multilingual Keyboard Fix",
   "description": "Fixes the AltGr behaviour, enabling you to type special characters",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "minimum_chrome_version": "52",
   "icons": {
